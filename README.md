@@ -1,4 +1,3 @@
-"""markdown
 # OCR with CNNs Lesson
 
 This repository provides a comprehensive guide to implementing Optical Character Recognition (OCR) using Convolutional Neural Networks (CNNs). The content includes theoretical lessons, practical coding notebooks, and a working Flask web application.
@@ -39,4 +38,3 @@ This repository provides a comprehensive guide to implementing Optical Character
 
 ## Acknowledgments
 Inspired by modern deep learning practices for OCR.
-"""
