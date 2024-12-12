@@ -46,7 +46,7 @@ OCR-CNN-Course/
 ├── utils/               # Helper scripts and utilities
 ├── README.md            # Course documentation
 └── main.py              # Main script for running examples
-
+```
 ---
 
 ## **Learning Outcomes*
