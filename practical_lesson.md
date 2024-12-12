@@ -191,23 +191,6 @@ model.save("models/cnn_model.h5")
 from tensorflow.keras.models import load_model
 model = load_model("models/cnn_model.h5")
 ```
-
-### **Deploy as a REST API**
-```python
-from flask import Flask, request, jsonify
-
-app = Flask(__name__)
-
-@app.route('/predict', methods=['POST'])
-def predict():
-    img = request.json['image']
-    # Preprocess image here
-    prediction = model.predict(img)
-    return jsonify({'prediction': prediction.argmax()})
-
-app.run()
-```
-
 ---
 
 ## **10. Troubleshooting**
