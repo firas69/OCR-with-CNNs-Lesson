@@ -49,7 +49,7 @@ OCR-CNN-Course/
 ```
 ---
 
-## **Learning Outcomes*
+## **Learning Outcomes**
 ```plaintext
    - Build, train, and evaluate CNN models for OCR tasks. 
    - Optimize hyperparameters to improve model performance.
